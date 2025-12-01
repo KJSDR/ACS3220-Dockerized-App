@@ -4,7 +4,7 @@ A simple Flask web application containerized with Docker and deployed on CapRove
 
 ## Live Demo
 
-**Deployed App:** https://flask-app-1.dev.killiandelamarre.dev
+**Deployed App:** https://flask-app-1.dev.killiandelamarre.dev ![Docker](https://img.shields.io/badge/docker-builds%20passing-brightgreen)
 
 **Status Page:** [View Status Page](https://stats.uptimerobot.com/2Th20xnRwH) [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fflask-app-1.dev.killiandelamarre.dev&label=Flask%20App)](https://flask-app-1.dev.killiandelamarre.dev)
 
