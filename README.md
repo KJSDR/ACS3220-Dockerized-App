@@ -11,7 +11,7 @@ A simple Flask web application containerized with Docker and deployed on CapRove
 
 [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fflask-app-1.dev.killiandelamarre.dev&label=Flask%20App)](https://flask-app-1.dev.killiandelamarre.dev)
 
-**Uptime Monitoring:** [View Status Page](YOUR_UPTIMEROBOT_URL_HERE)
+**Uptime Monitoring:** [View Status Page](https://stats.uptimerobot.com/2Th20xnRwH)
 
 ## How to Build and Run
 
