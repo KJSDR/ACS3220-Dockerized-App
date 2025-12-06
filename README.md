@@ -19,7 +19,7 @@ A simple Flask web application containerized with Docker and deployed on CapRove
 1. Clone the repository:
 ```bash
 git clone git@github.com:KJSDR/ACS3220-Dockerized-App.git
-cd git@github.com:KJSDR/ACS3220-Dockerized-App.git
+cd ACS3220-Dockerized-App
 ```
 
 2. Build and run with Docker Compose:
